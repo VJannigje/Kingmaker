@@ -2,11 +2,11 @@
   "nodes": [
     {
       "id": "677adef877063130",
+      "type": "group",
       "x": 650,
       "y": -920,
       "width": 430,
       "height": 600,
-      "type": "group",
       "label": "The Elders"
     },
     {
@@ -20,22 +20,22 @@
     },
     {
       "id": "65637679de797ecc",
+      "type": "file",
+      "file": "NPCs/Shika the many.md",
       "x": 690,
       "y": -840,
       "width": 350,
-      "height": 200,
-      "type": "file",
-      "file": "NPCs/Shika the many.md"
+      "height": 200
     },
     {
       "id": "9fa7ff6fa2ce202a",
+      "type": "file",
+      "file": "Locations/the Drevlev caves.md",
       "x": 605,
       "y": -20,
       "width": 300,
       "height": 120,
-      "color": "3",
-      "type": "file",
-      "file": "Locations/the Drevlev caves.md"
+      "color": "3"
     },
     {
       "id": "b7b0688a62d60405",
