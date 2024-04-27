@@ -1,4 +1,4 @@
-[[Nyrissia]]
+Parts of [[Nyrissia]]
 Fey can give up part of their soul and put it into an item. 
 
 We think that the green string items we've found have part of Nyrissia in them. 

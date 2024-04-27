@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "677adef877063130",
+      "x": 650,
+      "y": -920,
+      "width": 430,
+      "height": 600,
+      "type": "group",
+      "label": "The Elders"
+    },
+    {
+      "id": "cf61c770efcde796",
+      "type": "file",
+      "file": "NPCs/Count Ranalc.md",
+      "x": 690,
+      "y": -560,
+      "width": 350,
+      "height": 200
+    },
+    {
+      "id": "65637679de797ecc",
+      "x": 690,
+      "y": -840,
+      "width": 350,
+      "height": 200,
+      "type": "file",
+      "file": "NPCs/Shika the many.md"
+    },
+    {
+      "id": "9fa7ff6fa2ce202a",
+      "x": 605,
+      "y": -20,
+      "width": 300,
+      "height": 120,
+      "color": "3",
+      "type": "file",
+      "file": "Locations/the Drevlev caves.md"
+    },
+    {
+      "id": "b7b0688a62d60405",
+      "type": "file",
+      "file": "Kingdoms/Pitax.md",
+      "x": 605,
+      "y": -240,
+      "width": 300,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "b0e21991b2ecccf3",
+      "type": "file",
+      "file": "NPCs/Nyrissia.md",
+      "x": 110,
+      "y": -560,
+      "width": 340,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "364860500f8b4651",
+      "type": "file",
+      "file": "Items/Green string items.md",
+      "x": 60,
+      "y": -260,
+      "width": 440,
+      "height": 360,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "d13cd5c97bbf2962",
+      "fromNode": "b0e21991b2ecccf3",
+      "fromSide": "right",
+      "toNode": "cf61c770efcde796",
+      "toSide": "left",
+      "fromEnd": "arrow",
+      "color": "1"
+    },
+    {
+      "id": "3f3dc2b31ac41e1a",
+      "fromNode": "b0e21991b2ecccf3",
+      "fromSide": "bottom",
+      "toNode": "364860500f8b4651",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "a491dc0dd7ea26cc",
+      "fromNode": "364860500f8b4651",
+      "fromSide": "right",
+      "toNode": "b7b0688a62d60405",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "cd21fb42e313386b",
+      "fromNode": "364860500f8b4651",
+      "fromSide": "right",
+      "toNode": "9fa7ff6fa2ce202a",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "1d0897b76924cda7",
+      "fromNode": "9fa7ff6fa2ce202a",
+      "fromSide": "top",
+      "toNode": "b7b0688a62d60405",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}
